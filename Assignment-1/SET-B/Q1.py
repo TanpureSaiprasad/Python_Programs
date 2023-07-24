@@ -13,6 +13,6 @@ while(n>0):
         ecnt=ecnt+1
     else:
         ocnt=ocnt+1
-print("Zero Count:",zcnt);
-print("Even Count:",ecnt);
-print("Odd Count:",ocnt);
+print("Zero Count:",zcnt)
+print("Even Count:",ecnt)
+print("Odd Count:",ocnt)
